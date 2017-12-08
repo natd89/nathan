@@ -1,0 +1,92 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/" . "home/")
+ ("/home/nmd89/git/byu/cur_devel/sandbox/nathan/" . "string_sensor_array/")
+ ("/home/nmd89/git/byu/cur_devel/sandbox/" . "nathan/")
+ ("/home/nmd89/Dropbox/Graduate Folders/Sensors/string_potentiometer_sensor/" . "five_string/")
+ ("/home/nmd89/Dropbox/Graduate Folders/Sensors/" . "string_potentiometer_sensor/")
+ ("/home/" . "nmd89/")
+ ("/home/nmd89/git/byu/cur_devel/sensors/src/" . "tactile_sensor/")
+ ("/home/nmd89/git/byu/cur_devel/sensors/" . "src/")
+ ("/home/nmd89/git/byu/cur_devel/" . "sensors/")
+ ("/home/nmd89/git/byu/" . "cur_devel/")
+ ("/home/nmd89/git/" . "byu/")
+ ("/home/nmd89/Dropbox/Graduate Folders/" . "CS 501R - Deep Learning/")
+ ("/home/nmd89/Dropbox/Graduate Folders/CS 501R - Deep Learning/" . "Lab7/")
+ ("/home/nmd89/Dropbox/" . "Graduate Folders/")
+ ("/home/nmd89/" . "Dropbox/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/nmd89/Dropbox/Graduate Folders/CS 501R - Deep Learning/"
+ "/home/nmd89/Dropbox/Graduate Folders/CS 501R - Deep Learning/Lab7/"
+ "/home/nmd89/Dropbox/Graduate Folders/CS 501R - Deep Learning/Lab5/"
+ "/home/nmd89/git/byu/cur_devel/sandbox/nathan/string_sensor_array/"
+ "/home/nmd89/Dropbox/Graduate Folders/Sensors/string_potentiometer_sensor/five_string/"
+ "/home/nmd89/Dropbox/Graduate Folders/CS 501R - Deep Learning/Lab6/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "NNFunctions"
+ "image_array.py"
+ "interpolate.py"
+ "crop_image.py"
+ "imageClassifier.py"
+ "GANs.py"
+ "collect_data_for_plotting.py"
+ "Lab6-CancerDetector.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/nmd89/Dropbox/Graduate Folders/CS 501R - Deep Learning/Lab7/" (23027 24401 12615 211000) "image_array.py" "Lab7-wassersteinGAN.ipynb" "interpolate.py" "GAN_data_1/" "crop_image.py" "GAN_data/" "tf_logs/" "./" ".ipynb_checkpoints/" "../" "GANs.py")
+
+ ("/usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/" (22989 25222 516525 389000) "gen_linalg_ops.pyc" "special_math_ops.py" "logging_ops.py" "image_grad.pyc" "image_ops.py" "image_ops_impl.pyc" "check_ops.py" "partitioned_variables.pyc" "functional_ops.pyc" "weights_broadcast_ops.py" "control_flow_grad.py" "control_flow_ops.pyc" "image_ops_impl.py" "sdca_ops.py" "state_ops.py" "summary_op_util.py" "sets_impl.pyc" "sets_impl.py" "array_ops.pyc" "session_ops.py" "spectral_grad.pyc" "spectral_ops_test_util.py" "gen_math_ops.pyc" "gen_script_ops.py" "image_grad.py" "sdca_ops.pyc" "gradient_checker.py" "nn.pyc" "ctc_ops.py" "sparse_grad.pyc" "summary_ops.pyc" "losses/" "parsing_ops.pyc" "gen_random_ops.py" "sparse_ops.py" "nn_grad.pyc" "linalg_grad.py" "rnn_cell.pyc" "gen_user_ops.pyc" "gen_data_flow_ops.py" "gen_spectral_ops.py" "gen_io_ops.pyc" "gen_control_flow_ops.py" "numerics.pyc" "resource_variable_ops.py" "gen_lookup_ops.py" "control_flow_ops.py" "gradients.py" "special_math_ops.pyc" "state_grad.py" "resource_variable_ops.pyc" "variable_scope.pyc" "gen_logging_ops.pyc" "resources.py" "gen_sdca_ops.py" "sets.pyc" "embedding_ops.py" "gen_image_ops.pyc" "math_ops.pyc" "data_flow_grad.pyc" "gen_resource_variable_ops.pyc" "gen_user_ops.py" "gen_nn_ops.pyc" "state_ops.pyc" "check_ops.pyc" "script_ops.pyc" "clip_ops.py" "tensor_array_ops.py" "rnn_cell_impl.pyc" "gen_linalg_ops.py" "gradients_impl.py" "standard_ops.pyc" "resources.pyc" "gen_image_ops.py" "metrics_impl.pyc" "gen_logging_ops.py" "metrics.pyc" "histogram_ops.py" "confusion_matrix.pyc" "distributions/" "gen_set_ops.py" "gradients_impl.pyc" "spectral_grad.py" "data_flow_ops.py" "spectral_ops_test_util.pyc" "candidate_sampling_ops.py" "gen_ctc_ops.py" "gen_sparse_ops.py" "gen_set_ops.pyc" "random_ops.pyc" "string_ops.pyc" "nn_impl.pyc" "gen_state_ops.py" "script_ops.py" "variables.py" "embedding_ops.pyc" "lookup_ops.py" "gen_dataset_ops.py" "control_flow_grad.pyc" "gen_random_ops.pyc" "histogram_ops.pyc" "parsing_ops.py" "clip_ops.pyc" "lookup_ops.pyc" "array_grad.pyc" "gen_sdca_ops.pyc" "gen_resource_variable_ops.py" "gen_math_ops.py" "nn_impl.py" "nn_grad.py" "linalg_grad.pyc" "__init__.py" "tensor_array_grad.py" "session_ops.pyc" "linalg_ops.py" "rnn_cell.py" "rnn.pyc" "init_ops.py" "array_ops.py" "gen_dataset_ops.pyc" "gen_ctc_ops.pyc" "gen_control_flow_ops.pyc" "variable_scope.py" "gen_array_ops.pyc" "gen_string_ops.pyc" "gen_parsing_ops.pyc" "template.py" "image_ops.pyc" "math_ops.py" "gen_array_ops.py" "init_ops.pyc" "gen_spectral_ops.pyc" "data_flow_ops.pyc" "gen_nn_ops.py" "nn_ops.pyc" "gen_io_ops.py" "gen_bitwise_ops.py" "gen_state_ops.pyc" "gradient_checker.pyc" "partitioned_variables.py" "metrics.py" "candidate_sampling_ops.pyc" "array_grad.py" "data_flow_grad.py" "gen_functional_ops.py" "gen_parsing_ops.py" "template.pyc" "gen_string_ops.py" "functional_ops.py" "summary_op_util.pyc" "random_ops.py" "bitwise_ops.py" "gen_functional_ops.pyc" "logging_ops.pyc" "string_ops.py" "confusion_matrix.py" "metrics_impl.py" "math_grad.pyc" "standard_ops.py" "gen_bitwise_ops.pyc" "linalg_ops.pyc" "summary_ops.py" "__init__.pyc" "variables.pyc" "tensor_array_ops.pyc" "math_grad.py" "bitwise_ops.pyc" "rnn_cell_impl.py" "weights_broadcast_ops.pyc" "io_ops.py" "sparse_grad.py" "spectral_ops.pyc" "gen_lookup_ops.pyc" "io_ops.pyc" "tensor_array_grad.pyc" "gradients.pyc" "gen_script_ops.pyc" "nn.py" "spectral_ops.py" "gen_candidate_sampling_ops.py" "sparse_ops.pyc" "gen_candidate_sampling_ops.pyc" "ctc_ops.pyc" "gen_data_flow_ops.pyc" "nn_ops.py" "state_grad.pyc" "sets.py" "rnn.py" "gen_sparse_ops.pyc" "numerics.py" "../" "./")
+
+ ("/home/nmd89/Dropbox/Graduate Folders/CS 501R - Deep Learning/Lab6/" (23014 18366 671188 308000) "Lab6-CancerDetector.py" "tf_logs/" "./" "Lab6-writeup.pdf" "../" "Lab6-CancerDetector.py~" "Lab6-writeup.docx")
+
+ ("/home/nmd89/Dropbox/Graduate Folders/CS 501R - Deep Learning/" (23024 61650 620206 696000) "Lab4/" "Lab6/" "Lab2/" "conv_arithmetic-master/" "Lab5/" "./" "Lab3/" "CS501-LectureSlides/" "Lab7/" "../" "Lab1/")
+
+ ("/home/nmd89/" (23016 61563 951021 910000) "eagle-7.7.0/" ".xsession-errors.old" ".gnupg/" ".cache/" ".nv/" "examples.desktop" "matlab_crash_dump.22082-1" ".xsession-errors" ".ssr/" ".thunderbird/" ".felix/" ".keras/" ".gconf/" "MPLABXProjects/" ".thumbnails/" ".ICAClient/" ".Xauthority" "Public/" "matlab_crash_dump.23354-1" ".mozilla/" "Templates/" ".sudo_as_admin_successful" ".jupyter/" ".local/" ".gvfs/" "Pictures/" "baxter_ws/" "Arduino/" "matlab_crash_dump.21045-1" ".matlab/" ".arduino15/" ".profile" ".pki/" ".gnome/" ".bash_history" "tactile_sensor_calibration_data/" ".java/" ".eaglerc" "rospy" ".compiz/" "Downloads/" "pyOpt-1.2.0/" ".emacs.d/" ".subversion/" ".atom/" ".texmf-var/" "./" "sensor_and_grub_side_by_side.mp4" ".lyx/" ".mplab_ide/" "J/" ".gksu.lock" ".Wolfram Research/" ".oracle_jre_usage/" "PlayOnLinux's virtual drives/" ".rviz/" ".hplip/" "tft" ".macromedia/" ".ros/" ".Mathematica/" "Documents/" ".dropbox/" ".bash_logout" ".wget-hsts" "Dropbox/" ".ipynb_checkpoints/" ".ICEauthority" "eagle/" "../" "matlab_crash_dump.7030-1" ".mplabcomm/" "Arduino-IDE/" ".jssc/" ".bashrc" ".gimp-2.8/" ".dropbox-dist/" ".QtWebEngineProcess/" ".wine/" ".ssh/" "Music/" ".adobe/" ".lein/" ".dbus/" "git/" ".config/" "kdenlive/" ".bashrc~" ".dmrc" ".openshot_qt/" ".gitconfig" ".ipython/" "Videos/" "np" "Desktop/" ".PlayOnLinux/")
+
+ ("/home/nmd89/git/byu/cur_devel/sandbox/nathan/string_sensor_array/" (23023 41777 46766 213000) "string_sensor_array.ino" "collect_data_for_plotting.py" "./" "nathan/" "../" "flex_sensor/" "scripts/" "theta_vs_ADC.m" "King_Louie_Breakout_Boards/")
+
+ ("/home/nmd89/git/byu/cur_devel/sandbox/nathan/" (22971 1519 375695 538000) "output_angle.py" "./" "string_sensor_array/" "../" "calibration_coefficients.mat" "flex_sensor/" "scripts/" "Arduino_ADC_C-code.txt" "flex_sensor.ino" "King_Louie_Breakout_Boards/")
+
+ ("/home/nmd89/git/byu/cur_devel/sandbox/" (22976 21542 104207 130000) "jon/" "marc/" "dustan/" "./" "nathan/" "vallan/" "../" "actual_angle_vs_predicted_angle.py" "erich/" "phil/")
+
+ ("/home/nmd89/git/byu/cur_devel/" (23023 41777 46766 213000) "super_catkin_make.sh" "utils/" "sensors/" "estimation/" ".gitmodules" ".git/" "robots/" "./" "design/" "control/" "sandbox/" "../" "README.md" ".gitignore" "models/")
+
+ ("/home/nmd89/Dropbox/Graduate Folders/Sensors/string_potentiometer_sensor/five_string/" (23006 62996 659706 660000) "collect_data_for_plotting.py" "black_grub_joint_sensor_1.bag" "./" "../")
+
+ ("/home/nmd89/Dropbox/Graduate Folders/Sensors/string_potentiometer_sensor/" (23006 55323 496385 804000) "five_string/" "./" "two_string/" "../")
+
+ ("/home/nmd89/Dropbox/Graduate Folders/Sensors/" (23006 55391 515416 668000) "ir_data_metal-bushing/" "tactile_sensor_arduino_shield/" "new_resistance_prediction_model_v2.py" "FFTfunction.m" "noise_fft.asv" "new_resistance_prediction_model.py" "oldResistanceModelAnySizeArray.py" "simpleFFT.m" "IR_sesnor_angle-vs-voltage.jpg" "./" "string_potentiometer_sensor/" "fft_on_sensor_noise.m" "noise_fft.m" "Homework_9.m" ".dropbox" "ir_data_constant_curvature/" "ir_data_1/" "../" "radius_of_curvature.m" "Tactile_Matlab_Files/" "new_resistance_prediction_model_temp.py" "noise.txt" "tactile_sensor_paper_equations.lyx")
+
+ ("/home/" (22616 16496 114544 765000) "nmd89/" "./" "../")
+
+ ("/home/nmd89/git/byu/cur_devel/sensors/src/tactile_sensor/" (22980 14804 864483 818000) "package.xml" "msg/" "src/" "./" "tft" "../" "launch/" "scripts/" "CMakeLists.txt")
+
+ ("/home/nmd89/git/byu/cur_devel/sensors/src/" (22976 9814 285034 371000) "vive_ros/" "tactile_sensor/" "cortex_ros/" "./" "netft_rdt_driver/" "../" "CMakeLists.txt")
+
+ ("/home/nmd89/git/byu/cur_devel/sensors/" (22976 9824 284884 789000) "build/" "src/" ".catkin_workspace" "devel/" "./" "../")
+
+ ("/home/nmd89/git/byu/" (22971 840 584310 860000) "publications_2016/" "./" "../" "cur_devel/" "publications_2017/" "development/")
+
+ ("/home/nmd89/git/" (22763 46550 722594 684000) "ego-projects-byu/" "cdsousa/" "sympy/" "byu/" "./" "../")
+
+ ("/home/nmd89/Dropbox/Graduate Folders/CS 501R - Deep Learning/Lab5/" (23006 43468 129137 98000) "imageClassifier.py~" "tf_logs/" "imageClassifier.py" "./" ".ipynb_checkpoints/" "Lab5-imageClassification.ipynb" "../" "tensorboard_graph.png")
+
+ ("/home/nmd89/Dropbox/Graduate Folders/" (22981 36493 672170 642000) "Sensors/" "ME EN 595R - Autonomous Systems/" "dustan_nathan_project/" "ECEN 773 - Linear System Theory/" "./" "CS 501R - Deep Learning/" "MEEN 537 - Robotics/" "ECEN 671 - Math of Signals and Systems/" "Proposals/" "ME EN 575 - Optimization/" "../")
+
+ ("/home/nmd89/Dropbox/" (23003 48284 641533 984000) "Math 112/" "ME 331/" "Dropbox - Shortcut.lnk" "ME EN 373/" "Dropbox - Shortcut (3).lnk" "Dropbox - Shortcut (2).lnk" "Strengths Solutions.zip" "CSWA-FEA Certificate.pdf" "Formula Sheet3.ppt" "Open CV/" "Public/" "ME 310-Histogram.xlsx" "Photos/" "Calculus integrals.nb" "Math 215/" "Final-Assembly.PDF" "Nathan Day %28revised%29.docx" "ME 142 Homework S2/" "Top Assembly/" "Nathan Day (revised).docx" "ME 310/" "Graduate Folders/" "EC EN 483 - controls/" "316-IBL (1).pdf" "Resume - 21 September 2017.docx" "./" "Equation Sheet Exam 1.pptx" "ME EN 363/" "Resumes/" "PAWN CNC.txt" ".dropbox" "Turret Assembly/" "Blender/" "Getting Started.pdf" "../" "ME 142/" "Luke & Nathan/" "316-IBL.pdf" ".dropbox.cache/" "Inventor Files/" "ME EN 330 - Mechatronics/" "Math 108/")
+
+ ("/home/nmd89/.lein/" (23006 27706 960073 805000) "./" "profiles.clj" "../")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
